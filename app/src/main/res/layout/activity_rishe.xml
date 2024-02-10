@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:background="@color/lightP"
+    android:layout_height="match_parent"
+    tools:context=".RisheActivity">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    <TextView
+        android:layout_width="match_parent"
+        android:padding="15dp"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:textDirection="rtl"
+        android:text="
+پدر و مادر اولين منبع قابل دسترسى جهت تقويت ريشه هاى اعتماد به نفس هستند. براى گروهى داشتن كمال و فضيلت، كار، موفقيت، خلاقيت و ابتكار سبب تقويت ريشه هاى اعتماد به نفس است و براى برخى ديگر، ظاهرى آراسته، زيبايى صورت و اندام، لباس، خانه و ماشين و پول جهت تقويت اعتماد به نفس ضرورى است. اعتماد به نفس با داشتن احساس مثبت نسبت به خود و قبول و پذيرش خود رشد و نمود مى يابد و براى استحكام و پايدارى به يك سيستم حمايتى قوى نياز دارد.
+نشانه هاى ضعف اعتماد به نفس
+معمولاً يك يا چند علامت از نشانه هاى فيزيكى زير مبين و نشانه ضعف اعتماد به نفس است:
+۱- لبهاى آويزان ۲- صورت پژمرده و سيمايى غمگين ۳- چشمان بى فروغ ۴- لرزش خفيف دست ها ۵- صداى ضعيف و نامطمئن ۶- پشت قوز كردن ۷- ظاهرى شلخته و نامرتب
+همچنين علايم و نشانه هاى شخصيتى افراد مبتلا به ضعف اعتماد به نفس را مى توان در يك يا چند طبقه زير جاى داد:
+- افراد مهاجم و ستيزه جو، افراد كم رو و گوشه گير، افراد مبتكر و مغرور، افرادى كه در تمام زمينه ها تشنه رقابت هستند، افرادى كه لاف مى زنند و به ديگران فخر مى فروشند، افرادى كه به سختى نياز به كامل و بى عيب بودن را در خود احساس مى كنند، افرادى كه محتاج تصديق از سوى ديگران هستند.
+
+"/>
+    </ScrollView>
+
+</LinearLayout>

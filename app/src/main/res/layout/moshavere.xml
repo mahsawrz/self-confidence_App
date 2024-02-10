@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:background="@color/lightP"
+    android:layout_height="match_parent">
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="234dp"
+            android:layout_gravity="center"
+            android:scaleType="fitXY"
+            android:src="@drawable/onlineconsultation" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:text="همین حالا با پزشکان ایران بصورت تلفنی صحبت و مشاوره تلفنی دریافت کنید.
+02191072025
+"
+
+            android:textColor="@color/black"
+            android:textDirection="rtl"
+            android:textSize="20sp"
+            android:textStyle="bold"></TextView>
+
+
+</LinearLayout>

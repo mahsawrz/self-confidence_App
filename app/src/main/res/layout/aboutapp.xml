@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:padding="15dp"
+    android:background="@color/lightP"
+    android:layout_height="match_parent">
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_marginBottom="10dp"
+        android:layout_height="40dp"
+        android:textStyle="bold"
+        android:drawableLeft="@drawable/ic_baseline_star_rate_24"
+        android:drawableRight="@drawable/ic_baseline_star_rate_24"
+        android:textSize="22sp"
+        android:text="آزمون"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:background="@color/purple_200"
+        android:gravity="center_horizontal" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="یکی از بزرگ ترین نکات موفقیت هر فرد داشتن اعتماد به نفس برای انجام کارهای بزرگ است. این برنامه میزان اعتماد به نفس شما را  بوسیله دو تست محبوب راتوس و روزنبرگ مورد سنجش قرار می دهد. این تست ها  بصورت رایگان در اختیار شما قرار داده شده و شما را در جهت بهبود وضعیت خود راهنمایی کرده است. شما علاوه بر آگاهی از وضعیت اعتماد به نفس خود می توانید به مطالب مفیدی برای تقویت اعتماد به نفس خود دست پیدا کنید و از پیشنهاد ویژه ما بهره مند شوید.
+
+"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="@color/black"></TextView>
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+       app:cardElevation="10dp"
+        app:cardCornerRadius="8dp"
+        android:layout_margin="10dp">
+
+
+    </androidx.cardview.widget.CardView>
+
+    <ImageView
+        android:layout_width="400dp"
+        android:layout_height="250dp"
+        android:layout_gravity="center"
+        android:scaleType="fitXY"
+        android:src="@drawable/self" />
+</LinearLayout>

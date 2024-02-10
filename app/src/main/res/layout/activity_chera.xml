@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:background="@color/lightP"
+    android:layout_height="match_parent"
+    tools:context=".CheraActivity">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:layout_width="match_parent"
+            android:padding="15dp"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:textDirection="rtl"
+           android:text="
+افرادي كه خود را باور ندارند، دائما احساس پوچي و بي مقداري دارند. كمبود اعتماد به نفس مانند يك مانع بزرگ در مسير پيشرفت شما مي باشد و دائما شما را به عقب سوق مي دهد . اين افراد به كارهايي كه انجام مي دهند اعتقاد ندارند، به همين دليل تمام كارهايشان با شكست مواجه مي شوند. به دليل نا اميدي شديدي كه بر روح و افكار آنها حكم فرماست ، موقعيت هاي شان را به سادگي از دست مي دهند . اين افراد هميشه تصوير نامفهوم و گنگي از خود دارند و شناخت كاملي از خود و استعدادهايشان ندارند؛ به همين دليل براي پيدا كردن راه صحيح زندگي شان با مشكل روبرو مي شوند. حس اعتماد به نفس به شما اجازه مي دهد آزاد و مقتدرانه تصميم بگيريد و روابط بهتري را در زندگي اجتماعي و شخصي تان ايجاد كنيد .
+
+"/>
+
+
+    </ScrollView>
+</LinearLayout>

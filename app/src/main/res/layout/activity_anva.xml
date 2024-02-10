@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:background="@color/lightP"
+    android:layout_height="match_parent"
+    tools:context=".AnvaActivity">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:layout_width="match_parent"
+            android:padding="15dp"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:textDirection="rtl"
+           android:text="
+* اعتماد به نفس رفتاری
+* اعتماد به نفس احساسی ، عاطفی
+* اعتماد به نفس روحی و معنوی
+
+
+به منظور ان که اقتدار شخصی لازم را به دست آورده و رضایت و غنایی که استحقاقش را دارید تجربه کنید ، به هر سه نوع اعتماد به نفس نیاز دارید .
+
+
+- اعتماد به نفس رفتاری ، به معنای قابلیت و توانایی در عمل کردن و انجام دادن کارهاست . از کارهای ساده گرفته تا کارهای سخت همانند جامه عمل پوشاندن به رویاهایتان . این همان نوع از  اعتماد به نفس است که مورد نظر اغلب ماست .
+
+
+-- اعتماد به نفس احساسی و عاطفی به معنای توانایی در تسلط و به کنترل در آوردن دنیای احساس و عواطف شماست .این که بدانید چه احساساتی دارید ، معنای ان ها را بفهمید و بتوانید انتخابهای احساسی درست بکنید و ازخود در مقابل درد و رنج روحی و لطمه ها و صد مه های عاطفی محافظت کنید و بدانید چگونه روابطی صمیمی ، سالم و مانگار خلق نمایید .
+
+
+-- سومین نوع از اعتماد به نفس که مهم ترین انها می باشد ، اعتماد به نفس روحی و معنوی است . این نوع از اعتماد به نفس همانا اعتماد و ایمان شما به جهان هستی و کل آفرینش و موجودات است . این ایمان روحی که زندگی ، هدف و نهایتی مثبت را در پی خواهد داشت و شما به خاطر هدفی این جا هستید و زندگی 70 - 80 - 90 ساله تان بر روی این کره خاکی هدف و مقصودی را دنبال می کند .
+
+
+اعتماد به نفس آن است که باور داشته باشید می توانید و توانایی ان را دارید که تمام توانتان را به کار بگیرید و شرایط و اوضاع زندگی را آن گونه که مطلوب و دلخواه شماست تغییر دهید.
+"/>
+
+
+    </ScrollView>
+</LinearLayout>

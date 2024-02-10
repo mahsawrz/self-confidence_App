@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.azmonsample">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/pic4"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/pic4"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AzmonSample">
+        <activity android:name=".TosieActivity" />
+        <activity android:name=".AnvaActivity" />
+        <activity android:name=".VizhegiActivity" />
+        <activity android:name=".RahkarActivity" />
+        <activity android:name=".CheraActivity" />
+        <activity android:name=".EtemadActivity" />
+        <activity android:name=".SheklActivity" />
+        <activity android:name=".HefzActivity" />
+        <activity android:name=".RisheActivity" />
+        <activity android:name=".KelidActivity" />
+        <activity android:name=".BehbodActivity" />
+        <activity android:name=".AfzayeshActivity" />
+        <activity android:name=".OfferActivity" />
+        <activity android:name=".FirstActivity" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

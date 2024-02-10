@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:background="@color/lightP"
+    android:layout_height="match_parent"
+    tools:context=".EtemadActivity">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:layout_width="match_parent"
+            android:padding="15dp"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:textDirection="rtl"
+           android:text="عزت نفس یک منبع انرژی است . یک چتر وسیعی است که اعتماد به نفس  زیر سایه آن است . اعتماد به نفس یعنی دیدن خود به عنوان فردی توانا با کفایت دوست داشتنی و منحصر به فرد .
+
+
+کفایت یعنی توانایی که درحد کافی و تسلط بر امور باشد .
+منحصر به فرد یعنی با توجه و در نظر گرفتن تفاوتها ی فردی .
+به تعبیر دیگر اعتماد به نفس یعنی ان احساس و شناختی که از توانایی ها و محدودیت های بیرونی و درونی خود دارید .
+
+
+بنا براین وقتی که اعتماد به نفس و خود باوری خود را بر اساس آن که و آن چه به راستی هستید و نه بر اساس موفقیت ها و دست یا بی ها یا شکست ها و ناکامی های خود بنا می کنید چیزی را در خود خلق می نمایید که هیچ کس و هیچ چیز یارای گرفتنش را از شما نخواهد داشت . حال با توجه به مفاهیم بالا می توان گفت که اعتماد به نفس واقعی همواره در درون خود شما تولید می شود نه از بیرون . اعتماد به نفس واقعی زاییده ی تعهد شما به خودتان است . این تعهد که هر ان چه لازم باشد انجام خواهید داد تا به خواسته ها و نیازهایتان برسید .
+اعتماد به نفس باور شخصی شماست نسبت به روح خودتان به عنوان یک انسان .
+اعتماد به نفس حقیقت این نیست که نترسیم . بلکه ان است که بدانید و مطمئن باشید با این که می ترسید اما بی گمان دست به عمل خواهید زد
+
+"/>
+
+
+    </ScrollView>
+</LinearLayout>

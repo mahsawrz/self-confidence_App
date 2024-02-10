@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:background="@color/lightP"
+    android:layout_height="match_parent"
+    tools:context=".SheklActivity">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    <TextView
+        android:layout_width="match_parent"
+        android:padding="15dp"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:textDirection="rtl"
+       android:text="وقتی با افراد سرشار از اعتماد به نفس صحبت می‌كنید با تكان دادن سر در جهات مختلف به شما نشان می‌دهند كه حرف‌های‌تان را می‌شنوند. آنها جوری می‌ایستند كه مخاطب‌شان سمت راست آنها قرار بگیرد و سر را به سمت طرف مقابل متمایل می‌كنند. این كار باعث می‌شود دید كلی افراد نسبت به بدن آنها تغییر نكند و حرف‌ها را راحت‌تر بشنوند. این افراد تعریف و تمجید دیگران نسبت به خودشان را به‌راحتی می‌پذیرند به طوری که می‌توان این موضوع را هنگام صحبت با آنها فهمید چون تایید سر و برق زدن چشم‌های‌شان نشان‌دهنده این ویژگی است.
+
+
+
+عطر وسیله ضروری برای این افراد
+
+طرفدار عطر و بوی خوش هستند و همیشه سعی می‌كنند یك عطر خوب در كیف و وسایل خود داشته باشند. آنها عطر را جزء وسایل ضروری خود می‌دانند و سعی می‌كنند همیشه بوی خوب بدهند و هرازگاهی هم عطر زدن را در روز تكرار می‌كنند. افراد دارای اعتماد به نفس صاف می‌نشینند یا از ژست‌های بسیار خاص زبان بدن برای ایجاد تفاوت با دیگران استفاده می‌كنند. آنها هنگام نشستن لباس خود را جمع می‌كنند تا كمترین تا خوردگی و چروك را داشته باشد.
+
+
+
+
+
+چنین افرادی با اطمینان خاطر می‌نشینند، دسته‌های صندلی را همچون فرمانروایان لمس می‌كنند و دست‌های خود را روی دسته‌های صندلی قرار می‌دهند. همیشه سعی می‌كنند رو به سمت نفر مقابل بنشینند و دیگران را راحت‌تر ببینند. آنها سعی می‌كنند افراد مقابل را زیر نظر داشته باشند.
+
+"/>
+
+    </ScrollView>
+</LinearLayout>
